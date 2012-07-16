@@ -1,3 +1,7 @@
+# SVN shit #
+############
+*/.svn
+
 # Compiled source #
 ###################
 *.com
