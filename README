@@ -1,0 +1,9 @@
+The code in this repository is the code used in the lab course in the class Modeling and Animation (TNM079) at Linköpings University. The course deals with the technical aspects of modeling and animation, such as surface representations, mesh representations, mesh decimation and fluid simulation.
+
+
+The code base used for the labs are copyrighted to:
+ *   Gunnar Johansson (gunnar.johansson@itn.liu.se)
+ *   Ken Museth (ken.museth@itn.liu.se)
+ *   Michael Bang Nielsen (bang@daimi.au.dk)
+ *   Ola Nilsson (ola.nilsson@itn.liu.se)
+ *   Andreas Söderström (andreas.soderstrom@itn.liu.se)
