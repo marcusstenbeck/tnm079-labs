@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/tnm079/svn/!svn/ver/10/Code/Math
+END
+CoordMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/tnm079/svn/!svn/ver/2/Code/Math/CoordMatrix.h
+END
+TrilinearInterpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tnm079/svn/!svn/ver/2/Code/Math/TrilinearInterpolator.h
+END
+ConjugateGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/tnm079/svn/!svn/ver/2/Code/Math/ConjugateGradient.h
+END
+Matrix4x4.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/tnm079/svn/!svn/ver/2/Code/Math/Matrix4x4.h
+END
+Volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/tnm079/svn/!svn/ver/3/Code/Math/Volume.h
+END
+Function3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tnm079/svn/!svn/ver/2/Code/Math/Function3D.h
+END
+CoordMatrix_Impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/tnm079/svn/!svn/ver/2/Code/Math/CoordMatrix_Impl.h
+END
+VortexVectorField.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/tnm079/svn/!svn/ver/10/Code/Math/VortexVectorField.h
+END
+ConstantVectorField.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tnm079/svn/!svn/ver/2/Code/Math/ConstantVectorField.h
+END
+Interpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/tnm079/svn/!svn/ver/2/Code/Math/Interpolator.h
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/tnm079/svn/!svn/ver/10/Code/Math/Vector3.h
+END
+Matrix4x4_Impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/tnm079/svn/!svn/ver/2/Code/Math/Matrix4x4_Impl.h
+END
+Vector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/tnm079/svn/!svn/ver/10/Code/Math/Vector4.h
+END
+TrilinearInterpolator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tnm079/svn/!svn/ver/2/Code/Math/TrilinearInterpolator.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/tnm079/svn/!svn/ver/2/Code/Math/CMakeLists.txt
+END

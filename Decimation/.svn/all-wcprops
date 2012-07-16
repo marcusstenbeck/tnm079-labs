@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/tnm079/svn/!svn/ver/2/Code/Decimation
+END
+DecimationMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tnm079/svn/!svn/ver/2/Code/Decimation/DecimationMesh.h
+END
+DecimationInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tnm079/svn/!svn/ver/2/Code/Decimation/DecimationInterface.h
+END
+QuadricDecimationMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tnm079/svn/!svn/ver/2/Code/Decimation/QuadricDecimationMesh.cpp
+END
+SimpleDecimationMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tnm079/svn/!svn/ver/2/Code/Decimation/SimpleDecimationMesh.cpp
+END
+QuadricDecimationMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tnm079/svn/!svn/ver/2/Code/Decimation/QuadricDecimationMesh.h
+END
+SimpleDecimationMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tnm079/svn/!svn/ver/2/Code/Decimation/SimpleDecimationMesh.h
+END
+DecimationMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tnm079/svn/!svn/ver/2/Code/Decimation/DecimationMesh.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/tnm079/svn/!svn/ver/2/Code/Decimation/CMakeLists.txt
+END
